@@ -1,0 +1,43 @@
+/* #adc{
+background-color: aquamarine;
+width: 375px;
+height: 290px;
+}
+#asc{
+    background-color: black;
+    width: 200px;
+    height: 150px;
+}
+#abc{
+    background-color: rgb(25, 226, 68);
+width: 275px;
+height: 390px;
+opacity: 0.6;
+margin-top: -450px;
+margin-left: 50px;
+
+}
+#thm{
+    background-color: rgb(14, 18, 223);
+width: 200px;
+height: 200px;
+opacity: 0.6;
+margin-top: -90px;
+margin-left: 100px;
+
+} */
+h1{
+    color: blueviolet;
+font-size: 48pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left:250pt;
+}
+p{
+    background-color: deepskyblue;
+    color: rgb(199, 8, 40);
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+hr{
+    size: 50px;
+}
